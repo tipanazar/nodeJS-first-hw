@@ -5,5 +5,8 @@
   },
   "devDependencies": {
     "nodemon": "^2.0.16"
+  },
+  "dependencies": {
+    "yargs": "^17.4.1"
   }
 }
